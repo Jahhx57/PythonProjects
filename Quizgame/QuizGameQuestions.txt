@@ -1,0 +1,12 @@
+What does CPU stand for?,Central Processing Unit
+What does GPU stand for?,Graphics Processing Unit
+What does RAM stand for?,Random Access Memory
+What does PSU stand for?,Power Supply
+What does SSD stand for?, Solid State Drive
+What does BIOS stand for?, Basic Input/Output System
+What does LAN stand for?, Local Area Network
+What does HDMI stand for?, High-Definition Multimedia Interface
+What does ISP stand for?, Internet Service Provider
+What does DNS stand for?, Domain Name System
+What does USB stand for?, Universal Serial Bus
+What does WLAN stand for?, Wireless Local Area Network
